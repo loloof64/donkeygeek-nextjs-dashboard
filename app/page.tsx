@@ -1,8 +1,6 @@
 import { lusitana } from "@/app/ui/fonts";
 import Image from "next/image";
 
-import HeroMobile from "../public/hero-mobile.png";
-import HeroDesktop from "../public/hero-desktop.png";
 import AcmeLogo from "@/app/ui/acme-logo";
 import Link from "next/link";
 import { ArrowRightIcon } from "@heroicons/react/24/outline";
